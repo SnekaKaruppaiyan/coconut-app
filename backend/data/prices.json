@@ -1,0 +1,1720 @@
+{
+  "prices": [
+    {
+      "id": 1,
+      "average_price": 28.2,
+      "min_price": 27,
+      "max_price": 29,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:43.583499"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:43.583499"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:43.583499"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:43.583499"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:43.583499"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:43.584519"
+    },
+    {
+      "id": 2,
+      "average_price": 27.8,
+      "min_price": 27,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:44.644257"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:44.644257"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:44.644257"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:44.644257"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:44.644257"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:44.644257"
+    },
+    {
+      "id": 3,
+      "average_price": 28.4,
+      "min_price": 25,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:46.200370"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:46.200370"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:07:46.200370"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:07:46.200370"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:46.200370"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:46.200370"
+    },
+    {
+      "id": 4,
+      "average_price": 30.0,
+      "min_price": 27,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:07:47.394302"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:47.394302"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:47.394302"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:47.394302"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:47.394302"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:47.394302"
+    },
+    {
+      "id": 5,
+      "average_price": 28.4,
+      "min_price": 27,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:48.353474"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:48.353474"
+        },
+        {
+          "source": "kisantak",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:48.353474"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:48.353474"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:48.353474"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:48.353474"
+    },
+    {
+      "id": 6,
+      "average_price": 30.8,
+      "min_price": 29,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:51.757039"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:51.757039"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:51.757039"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:07:51.757039"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:07:51.757039"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:51.757039"
+    },
+    {
+      "id": 7,
+      "average_price": 30.0,
+      "min_price": 27,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:52.298036"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:52.298036"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:52.298036"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:07:52.298036"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:52.298036"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:52.298036"
+    },
+    {
+      "id": 8,
+      "average_price": 30.0,
+      "min_price": 28,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:07:52.989444"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:52.989444"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:52.989444"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:52.989444"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:52.989444"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:52.989444"
+    },
+    {
+      "id": 9,
+      "average_price": 27.8,
+      "min_price": 25,
+      "max_price": 29,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:53.695638"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:53.695638"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:07:53.695638"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:53.695638"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:53.695638"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:53.695638"
+    },
+    {
+      "id": 10,
+      "average_price": 28.6,
+      "min_price": 27,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:54.376856"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:54.376856"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:54.376856"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:54.376856"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:54.376856"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:54.376856"
+    },
+    {
+      "id": 11,
+      "average_price": 29.0,
+      "min_price": 28,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:54.957288"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:54.957288"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:54.957288"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:54.957288"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:54.957288"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:54.957288"
+    },
+    {
+      "id": 12,
+      "average_price": 29.8,
+      "min_price": 28,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:55.464711"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:55.464711"
+        },
+        {
+          "source": "kisantak",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:55.464711"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:07:55.464711"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:55.464711"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:55.464711"
+    },
+    {
+      "id": 13,
+      "average_price": 28.4,
+      "min_price": 25,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:56.355047"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:07:56.355047"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:07:56.355047"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:07:56.355047"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:56.355047"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:56.355047"
+    },
+    {
+      "id": 14,
+      "average_price": 30.0,
+      "min_price": 25,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:07:58.443022"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:07:58.443022"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:07:58.443022"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:07:58.443022"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:58.443022"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:58.443022"
+    },
+    {
+      "id": 15,
+      "average_price": 29.4,
+      "min_price": 28,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:59.716140"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:59.716140"
+        },
+        {
+          "source": "kisantak",
+          "price": 29,
+          "timestamp": "2025-12-24T17:07:59.716140"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:07:59.716140"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:07:59.716140"
+        }
+      ],
+      "timestamp": "2025-12-24T17:07:59.716140"
+    },
+    {
+      "id": 16,
+      "average_price": 29.8,
+      "min_price": 26,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 26,
+          "timestamp": "2025-12-24T17:08:00.548928"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:08:00.548928"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:08:00.548928"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:08:00.548928"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:08:00.548928"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:00.548928"
+    },
+    {
+      "id": 17,
+      "average_price": 29.0,
+      "min_price": 26,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 26,
+          "timestamp": "2025-12-24T17:08:01.413661"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:08:01.413661"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:08:01.413661"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:08:01.413661"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:01.413661"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:01.413661"
+    },
+    {
+      "id": 18,
+      "average_price": 29.0,
+      "min_price": 28,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:02.922144"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:02.922144"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:02.922144"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:02.922144"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:02.922144"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:02.922144"
+    },
+    {
+      "id": 19,
+      "average_price": 29.4,
+      "min_price": 27,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 27,
+          "timestamp": "2025-12-24T17:08:03.628879"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:08:03.628879"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:03.628879"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:08:03.628879"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:03.628879"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:03.628879"
+    },
+    {
+      "id": 20,
+      "average_price": 28.0,
+      "min_price": 26,
+      "max_price": 29,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:04.414690"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:04.414690"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:08:04.414690"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:04.414690"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:04.414690"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:04.414690"
+    },
+    {
+      "id": 21,
+      "average_price": 28.4,
+      "min_price": 25,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:05.545506"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:08:05.545506"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:08:05.545506"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:05.545506"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:05.545506"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:05.545506"
+    },
+    {
+      "id": 22,
+      "average_price": 29.8,
+      "min_price": 28,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:08:06.252797"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:06.252797"
+        },
+        {
+          "source": "kisantak",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:06.252797"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:06.252797"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:06.252797"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:06.252797"
+    },
+    {
+      "id": 23,
+      "average_price": 28.2,
+      "min_price": 25,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:06.912615"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:06.912615"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:08:06.912615"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:06.912615"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:06.912615"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:06.912615"
+    },
+    {
+      "id": 24,
+      "average_price": 29.4,
+      "min_price": 28,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:08:07.635481"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:07.635481"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:07.635481"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:08:07.635481"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:08:07.635481"
+        }
+      ],
+      "timestamp": "2025-12-24T17:08:07.635481"
+    },
+    {
+      "id": 25,
+      "average_price": 27.6,
+      "min_price": 25,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:14.383035"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:14.383035"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:10:14.383035"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:14.383035"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:14.383035"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:14.383035"
+    },
+    {
+      "id": 26,
+      "average_price": 28.0,
+      "min_price": 27,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:15.007772"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:15.007772"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:15.007772"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:15.007772"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:15.007772"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:15.007772"
+    },
+    {
+      "id": 27,
+      "average_price": 28.6,
+      "min_price": 26,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:15.633153"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:15.633153"
+        },
+        {
+          "source": "kisantak",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:15.633153"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:15.633153"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:15.633153"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:15.633153"
+    },
+    {
+      "id": 28,
+      "average_price": 28.6,
+      "min_price": 26,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:18.326941"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:18.326941"
+        },
+        {
+          "source": "kisantak",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:18.326941"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:18.326941"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:18.326941"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:18.326941"
+    },
+    {
+      "id": 29,
+      "average_price": 29.2,
+      "min_price": 27,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:19.070600"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:19.070600"
+        },
+        {
+          "source": "kisantak",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:19.070600"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:19.070600"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:19.070600"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:19.070600"
+    },
+    {
+      "id": 30,
+      "average_price": 29.2,
+      "min_price": 27,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:19.741477"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:19.741477"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:19.741477"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:19.741477"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:19.741477"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:19.741477"
+    },
+    {
+      "id": 31,
+      "average_price": 28.4,
+      "min_price": 27,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:20.285694"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:20.285694"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:20.285694"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:20.285694"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:20.285694"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:20.285694"
+    },
+    {
+      "id": 32,
+      "average_price": 30.2,
+      "min_price": 28,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:20.850511"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:20.850511"
+        },
+        {
+          "source": "kisantak",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:20.850511"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:20.850511"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:20.850511"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:20.850511"
+    },
+    {
+      "id": 33,
+      "average_price": 29.2,
+      "min_price": 26,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:21.482686"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:21.482686"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:21.482686"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:21.482686"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:21.482686"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:21.498241"
+    },
+    {
+      "id": 34,
+      "average_price": 29.8,
+      "min_price": 27,
+      "max_price": 33,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:22.058109"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:22.058109"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:22.058109"
+        },
+        {
+          "source": "krishidunia",
+          "price": 33,
+          "timestamp": "2025-12-24T17:10:22.058109"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:22.058109"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:22.073719"
+    },
+    {
+      "id": 35,
+      "average_price": 29.0,
+      "min_price": 28,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:22.622970"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:22.622970"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:22.622970"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:22.622970"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:22.622970"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:22.622970"
+    },
+    {
+      "id": 36,
+      "average_price": 28.8,
+      "min_price": 26,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:23.554357"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:23.554357"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:23.554357"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:23.554357"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:23.554357"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:23.554357"
+    },
+    {
+      "id": 37,
+      "average_price": 29.6,
+      "min_price": 25,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:24.286874"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:24.286874"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:10:24.286874"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:24.286874"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:24.286874"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:24.286874"
+    },
+    {
+      "id": 38,
+      "average_price": 28.4,
+      "min_price": 25,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:25.429918"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:25.429918"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:10:25.429918"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:25.429918"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:25.429918"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:25.429918"
+    },
+    {
+      "id": 39,
+      "average_price": 28.6,
+      "min_price": 27,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:29.285454"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:29.285454"
+        },
+        {
+          "source": "kisantak",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:29.285454"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:29.285454"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:29.285454"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:29.285454"
+    },
+    {
+      "id": 40,
+      "average_price": 28.8,
+      "min_price": 26,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:30.179585"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:30.179585"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:30.179585"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:30.179585"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:30.179585"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:30.179585"
+    },
+    {
+      "id": 41,
+      "average_price": 29.8,
+      "min_price": 26,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:31.128571"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:31.128571"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:31.128571"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:31.128571"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:31.128571"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:31.128571"
+    },
+    {
+      "id": 42,
+      "average_price": 27.8,
+      "min_price": 25,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:31.752218"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:31.752218"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:10:31.752218"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:31.752218"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:31.752218"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:31.754723"
+    },
+    {
+      "id": 43,
+      "average_price": 29.0,
+      "min_price": 27,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:40.823565"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:40.823565"
+        },
+        {
+          "source": "kisantak",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:40.823565"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:40.823565"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:40.823565"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:40.839154"
+    },
+    {
+      "id": 44,
+      "average_price": 28.4,
+      "min_price": 25,
+      "max_price": 31,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:41.059928"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:41.059928"
+        },
+        {
+          "source": "kisantak",
+          "price": 25,
+          "timestamp": "2025-12-24T17:10:41.059928"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:41.059928"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:41.059928"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:41.075550"
+    },
+    {
+      "id": 45,
+      "average_price": 28.4,
+      "min_price": 27,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:41.719495"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:41.719495"
+        },
+        {
+          "source": "kisantak",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:41.719495"
+        },
+        {
+          "source": "krishidunia",
+          "price": 30,
+          "timestamp": "2025-12-24T17:10:41.719495"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:41.719495"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:41.719495"
+    },
+    {
+      "id": 46,
+      "average_price": 28.6,
+      "min_price": 26,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:42.197489"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:42.197489"
+        },
+        {
+          "source": "kisantak",
+          "price": 26,
+          "timestamp": "2025-12-24T17:10:42.197489"
+        },
+        {
+          "source": "krishidunia",
+          "price": 31,
+          "timestamp": "2025-12-24T17:10:42.197489"
+        },
+        {
+          "source": "krishidunia",
+          "price": 27,
+          "timestamp": "2025-12-24T17:10:42.197489"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:42.197489"
+    },
+    {
+      "id": 47,
+      "average_price": 30.0,
+      "min_price": 28,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:42.666397"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:10:42.666397"
+        },
+        {
+          "source": "kisantak",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:42.666397"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:10:42.666397"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:10:42.666397"
+        }
+      ],
+      "timestamp": "2025-12-24T17:10:42.666397"
+    },
+    {
+      "id": 48,
+      "average_price": 29.8,
+      "min_price": 28,
+      "max_price": 32,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 32,
+          "timestamp": "2025-12-24T17:11:34.117514"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 28,
+          "timestamp": "2025-12-24T17:11:34.117514"
+        },
+        {
+          "source": "kisantak",
+          "price": 28,
+          "timestamp": "2025-12-24T17:11:34.117514"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:11:34.117514"
+        },
+        {
+          "source": "krishidunia",
+          "price": 32,
+          "timestamp": "2025-12-24T17:11:34.117514"
+        }
+      ],
+      "timestamp": "2025-12-24T17:11:34.117514"
+    },
+    {
+      "id": 49,
+      "average_price": 28.6,
+      "min_price": 26,
+      "max_price": 30,
+      "source_count": 5,
+      "sources": [
+        {
+          "source": "commodityonline",
+          "price": 26,
+          "timestamp": "2025-12-24T17:11:35.648701"
+        },
+        {
+          "source": "commoditymarketlive",
+          "price": 30,
+          "timestamp": "2025-12-24T17:11:35.648701"
+        },
+        {
+          "source": "kisantak",
+          "price": 30,
+          "timestamp": "2025-12-24T17:11:35.648701"
+        },
+        {
+          "source": "krishidunia",
+          "price": 28,
+          "timestamp": "2025-12-24T17:11:35.648701"
+        },
+        {
+          "source": "krishidunia",
+          "price": 29,
+          "timestamp": "2025-12-24T17:11:35.648701"
+        }
+      ],
+      "timestamp": "2025-12-24T17:11:35.648701"
+    }
+  ],
+  "last_updated": "2025-12-24T17:11:35.648701"
+}
